@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668887425 source:c:\users\mayssa\documents\c\vigenere\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
